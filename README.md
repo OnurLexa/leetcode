@@ -1,0 +1,2 @@
+# leetcode
+sadece leetcode cözümlerim
